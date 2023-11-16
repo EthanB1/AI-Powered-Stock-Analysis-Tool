@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+altair
+requests
+python-dotenv
+yfinance
+openai
+simpletransformers
+torch
